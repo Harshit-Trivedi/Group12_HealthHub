@@ -18,6 +18,8 @@ Health Hub allows users to book in-clinic appointments with doctors, purchase me
 
 ## Getting Started
 
+## Testing Details
+
 ### Prerequisites
 
 NodeJs and Angular must be installed on the system
