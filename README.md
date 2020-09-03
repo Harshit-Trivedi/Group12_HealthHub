@@ -16,9 +16,52 @@ Health Hub allows users to book in-clinic appointments with doctors, purchase me
 -   [Rudra Makwana](Rudra.Makwana@dal.ca)
 -   [Swarali Ghalwadkar](swaralisg22@gmail.com)
 
-## Getting Started
-
 ## Testing Details
+
+### Login User Credentials
+
+Email: ht3886@gmail.com
+Password: Password@123
+
+## Project Screenshots
+
+### Home Page
+![](src/assets/HomePage.png)
+
+### Blogs
+![](src/assets/Blogs.png)
+
+### Order Medicines
+![](src/assets/Medicines.png)
+
+### Insurance
+![](src/assets/Insurance.png)
+
+### Forum
+![](src/assets/Forum.png)
+
+### Consult Doctor
+![](src/assets/Consult.png)
+
+### Home Care Services
+![](src/assets/HomeCare.png)
+
+### Registration
+![](src/assets/Registration.png)
+
+### Medical History
+![](src/assets/MedicalHistory.png)
+
+### Posted Orders
+![](src/assets/MyOrders.png)
+
+### About Us
+![](src/assets/About-us.png)
+
+### Contact Us
+![](src/assets/ContactUs.png)
+
+## Getting Started
 
 ### Prerequisites
 
