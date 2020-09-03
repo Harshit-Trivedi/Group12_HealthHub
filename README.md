@@ -1,11 +1,9 @@
-# Add firebase config key and google maps API key in the environment variables files to fix build issues
-
-# Group 12 - Project Proposal
+# Group 12 - Web Project
 
 Health Hub allows users to book in-clinic appointments with doctors, purchase medicine, book health plans, have intercation in forum and view blogs where the questions are answered by medical professionals.
 
 -   _Date Created_: 07 Jun 2020
--   _Last Modification Date_: 24 Jun 2020
+-   _Last Modification Date_: 03 Sep 2020
 
 ## Authors
 
