@@ -156,10 +156,6 @@ App is deployed on heroku by linking github repository. Automatic deploy is enab
 
 https://health-hub-a2.herokuapp.com/
 
-### Gitlab Link
-
-https://git.cs.dal.ca/gazula/a2_avinash_gazula
-
 ### Github Link
 
 https://github.com/avinashgazula/HealthHub-A2
